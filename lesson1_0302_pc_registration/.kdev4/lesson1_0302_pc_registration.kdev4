@@ -1,0 +1,16 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x008\x00l\x00e\x00s\x00s\x00o\x00n\x001\x00_\x000\x003\x000\x002\x00_\x00p\x00c\x00_\x00r\x00e\x00g\x00i\x00s\x00t\x00r\x00a\x00t\x00i\x00o\x00n)
+
+[CMake]
+Build Directory Count=1
+Current Build Directory Index-Host System=0
+
+[CMake][CMake Build Directory 0]
+Build Directory Path=/home/feihong/Documents/rgbd-slam-tutorial/lesson1_0302_pc_registration/build
+Build Type=Release
+CMake Binary=/usr/bin/cmake
+CMake Executable=/usr/bin/cmake
+Environment Profile=
+Extra Arguments=
+Install Directory=/usr/local
+Runtime=Host System
